@@ -1,0 +1,8 @@
+E:\C#\8_5_2023\Object-Oriented C#\Challenge_Bank\Challenge_Bank\obj\Debug\Challenge_Bank.csproj.AssemblyReference.cache
+E:\C#\8_5_2023\Object-Oriented C#\Challenge_Bank\Challenge_Bank\obj\Debug\Challenge_Bank.csproj.SuggestedBindingRedirects.cache
+E:\C#\8_5_2023\Object-Oriented C#\Challenge_Bank\Challenge_Bank\obj\Debug\Challenge_Bank.csproj.CoreCompileInputs.cache
+E:\C#\8_5_2023\Object-Oriented C#\Challenge_Bank\Challenge_Bank\bin\Debug\Challenge_Bank.exe.config
+E:\C#\8_5_2023\Object-Oriented C#\Challenge_Bank\Challenge_Bank\bin\Debug\Challenge_Bank.exe
+E:\C#\8_5_2023\Object-Oriented C#\Challenge_Bank\Challenge_Bank\bin\Debug\Challenge_Bank.pdb
+E:\C#\8_5_2023\Object-Oriented C#\Challenge_Bank\Challenge_Bank\obj\Debug\Challenge_Bank.exe
+E:\C#\8_5_2023\Object-Oriented C#\Challenge_Bank\Challenge_Bank\obj\Debug\Challenge_Bank.pdb

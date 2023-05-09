@@ -1,0 +1,8 @@
+E:\C#\8_5_2023\Object-Oriented C#\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+E:\C#\8_5_2023\Object-Oriented C#\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+E:\C#\8_5_2023\Object-Oriented C#\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+E:\C#\8_5_2023\Object-Oriented C#\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+E:\C#\8_5_2023\Object-Oriented C#\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+E:\C#\8_5_2023\Object-Oriented C#\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+E:\C#\8_5_2023\Object-Oriented C#\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+E:\C#\8_5_2023\Object-Oriented C#\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

@@ -1,0 +1,8 @@
+E:\C#\8_5_2023\Object-Oriented C#\Access modifiers\Access modifiers\bin\Debug\Access modifiers.exe.config
+E:\C#\8_5_2023\Object-Oriented C#\Access modifiers\Access modifiers\bin\Debug\Access modifiers.exe
+E:\C#\8_5_2023\Object-Oriented C#\Access modifiers\Access modifiers\bin\Debug\Access modifiers.pdb
+E:\C#\8_5_2023\Object-Oriented C#\Access modifiers\Access modifiers\obj\Debug\Access modifiers.csproj.AssemblyReference.cache
+E:\C#\8_5_2023\Object-Oriented C#\Access modifiers\Access modifiers\obj\Debug\Access modifiers.csproj.SuggestedBindingRedirects.cache
+E:\C#\8_5_2023\Object-Oriented C#\Access modifiers\Access modifiers\obj\Debug\Access modifiers.csproj.CoreCompileInputs.cache
+E:\C#\8_5_2023\Object-Oriented C#\Access modifiers\Access modifiers\obj\Debug\Access modifiers.exe
+E:\C#\8_5_2023\Object-Oriented C#\Access modifiers\Access modifiers\obj\Debug\Access modifiers.pdb

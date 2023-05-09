@@ -1,0 +1,8 @@
+E:\C#\8_5_2023\Object-Oriented C#\String representation\String representation\bin\Debug\String representation.exe.config
+E:\C#\8_5_2023\Object-Oriented C#\String representation\String representation\bin\Debug\String representation.exe
+E:\C#\8_5_2023\Object-Oriented C#\String representation\String representation\bin\Debug\String representation.pdb
+E:\C#\8_5_2023\Object-Oriented C#\String representation\String representation\obj\Debug\String representation.csproj.AssemblyReference.cache
+E:\C#\8_5_2023\Object-Oriented C#\String representation\String representation\obj\Debug\String representation.csproj.SuggestedBindingRedirects.cache
+E:\C#\8_5_2023\Object-Oriented C#\String representation\String representation\obj\Debug\String representation.csproj.CoreCompileInputs.cache
+E:\C#\8_5_2023\Object-Oriented C#\String representation\String representation\obj\Debug\String representation.exe
+E:\C#\8_5_2023\Object-Oriented C#\String representation\String representation\obj\Debug\String representation.pdb

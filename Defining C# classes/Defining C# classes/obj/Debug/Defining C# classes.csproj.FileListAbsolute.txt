@@ -1,0 +1,8 @@
+E:\C#\8_5_2023\Object-Oriented C#\Defining C# classes\Defining C# classes\bin\Debug\Defining C# classes.exe.config
+E:\C#\8_5_2023\Object-Oriented C#\Defining C# classes\Defining C# classes\bin\Debug\Defining C# classes.exe
+E:\C#\8_5_2023\Object-Oriented C#\Defining C# classes\Defining C# classes\bin\Debug\Defining C# classes.pdb
+E:\C#\8_5_2023\Object-Oriented C#\Defining C# classes\Defining C# classes\obj\Debug\Defining C# classes.csproj.AssemblyReference.cache
+E:\C#\8_5_2023\Object-Oriented C#\Defining C# classes\Defining C# classes\obj\Debug\Defining C# classes.csproj.SuggestedBindingRedirects.cache
+E:\C#\8_5_2023\Object-Oriented C#\Defining C# classes\Defining C# classes\obj\Debug\Defining C# classes.csproj.CoreCompileInputs.cache
+E:\C#\8_5_2023\Object-Oriented C#\Defining C# classes\Defining C# classes\obj\Debug\Defining C# classes.exe
+E:\C#\8_5_2023\Object-Oriented C#\Defining C# classes\Defining C# classes\obj\Debug\Defining C# classes.pdb

@@ -1,0 +1,8 @@
+E:\C#\8_5_2023\Object-Oriented C#\Defining properties\Defining properties\bin\Debug\Defining properties.exe.config
+E:\C#\8_5_2023\Object-Oriented C#\Defining properties\Defining properties\bin\Debug\Defining properties.exe
+E:\C#\8_5_2023\Object-Oriented C#\Defining properties\Defining properties\bin\Debug\Defining properties.pdb
+E:\C#\8_5_2023\Object-Oriented C#\Defining properties\Defining properties\obj\Debug\Defining properties.csproj.AssemblyReference.cache
+E:\C#\8_5_2023\Object-Oriented C#\Defining properties\Defining properties\obj\Debug\Defining properties.csproj.SuggestedBindingRedirects.cache
+E:\C#\8_5_2023\Object-Oriented C#\Defining properties\Defining properties\obj\Debug\Defining properties.csproj.CoreCompileInputs.cache
+E:\C#\8_5_2023\Object-Oriented C#\Defining properties\Defining properties\obj\Debug\Defining properties.exe
+E:\C#\8_5_2023\Object-Oriented C#\Defining properties\Defining properties\obj\Debug\Defining properties.pdb
